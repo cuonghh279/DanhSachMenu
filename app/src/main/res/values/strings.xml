@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DanhSachMenu</string>
+    <string-array name="danhsach">
+        <item>Danh sach 1</item>
+        <item>Danh sach 2</item>
+        <item>Danh sach 3</item>
+    </string-array>
+</resources>
